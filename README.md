@@ -51,11 +51,11 @@ This project focuses on detecting anomalies in IoT devices by analyzing their po
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under a Proprietary License. See the LICENSE file for details.
 
 ## Acknowledgments
 
-We would like to thank our mentors and peers for their support and guidance throughout this project.
+We would like to thank our mentors, especially Revathi G P for mentoring through out the project and peers for their support and guidance throughout this project.
 
 ---
 
